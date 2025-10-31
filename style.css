@@ -2,3 +2,11 @@ body{
     color:rgb(226, 175, 34);
     background: black;
 }
+
+.chamada{
+    background:red;
+    padding-botton: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
