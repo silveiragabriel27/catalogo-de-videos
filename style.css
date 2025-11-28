@@ -1,16 +1,17 @@
-body{
-    color:rgb(209, 223, 11);
-    background: black;
-    font-family:'Faculty Glyphic',serif;
+body {
+color: white;
+background-color: black;
+font-family: "Faculty Glyphic", serif;
 }
 
-.chamada{
-    background:rgb(3, 19, 43);
-    padding-bottom: 80px;
-    padding-top: 80px;
-    display: flex;
-    justify-content: center;
+.chamada {
+background: rgb(214, 123, 232);
+padding-bottom: 80px;
+padding-top: 80px;
+display: flex;
+justify-content: center;
 }
+
 .categoria {
 padding-left: 20px;
 padding-right: 20px;
