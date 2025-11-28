@@ -10,7 +10,8 @@ body{
     padding-top: 80px;
     display: flex;
     justify-content: center;
-}.categoria {
+}
+.categoria {
 padding-left: 20px;
 padding-right: 20px;
 }
